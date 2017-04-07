@@ -46,8 +46,8 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/5.3.0/Rx.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/@reactivex/rxjs@5.3.0/dist/global/Rx.js"></script>
     <script type="text/javascript" src="/resources/vendor/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/resources/js/Data.js"></script>
+    <script type="text/javascript" src="/resources/js/InputMonitorRxJs.js"></script>
     </body>
 </html>
